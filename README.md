@@ -1,4 +1,4 @@
-# py-rbac
+# RBAC
 Python implementation of the NIST model for role based access control (RBAC).
 
 ![PyPI](https://img.shields.io/pypi/v/py-rbac)
